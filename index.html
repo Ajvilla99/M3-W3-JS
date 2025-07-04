@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="icon" type="image/svg+xml" href="/vite.svg" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Vite App</title>
+  </head>
+  <body>
+    <div id="app">
+      <div id="box_content">
+        <div class="title_table">
+          <h1>Lista de productos</h1>
+        </div>
+
+        <div class="table_actions">
+          <input type="search" />
+          <button>Agregar producto</button>
+        </div>
+
+        <table>
+          <thead>
+            <tr class="tr_head">
+              <th>id</th>
+              <th>name</th>
+              <th>price</th>
+              <th>categoria</th>
+              <th>stock</th>
+              <th>estado</th>
+              <th>acciones</th>
+            </tr>
+          </thead>
+          <tbody id="tb"></tbody>
+        </table>
+      </div>
+    </div>
+    <script type="module" src="/src/main.js"></script>
+  </body>
+</html>

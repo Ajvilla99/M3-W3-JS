@@ -1,0 +1,205 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Laptop Lenovo IdeaPad 3",
+      "description": "Laptop de 15.6 pulgadas con procesador AMD Ryzen 5.",
+      "price": 2499,
+      "categorie": "Tecnología",
+      "stock": 10,
+      "image_url": "https://example.com/img/laptop-lenovo.jpg",
+      "status": true
+    },
+    {
+      "id": 2,
+      "name": "Smartphone Samsung Galaxy A34",
+      "description": "Celular de gama media con cámara triple y pantalla AMOLED.",
+      "price": 1499,
+      "categorie": "Celulares",
+      "stock": 5,
+      "image_url": "https://example.com/img/samsung-a34.jpg",
+      "status": true
+    },
+    {
+      "id": 3,
+      "name": "Audífonos Bluetooth JBL Tune 510BT",
+      "description": "Audífonos inalámbricos con sonido JBL Pure Bass.",
+      "price": 239,
+      "categorie": "Audio",
+      "stock": 20,
+      "image_url": "https://example.com/img/jbl-510bt.jpg",
+      "status": true
+    },
+    {
+      "id": 4,
+      "name": "Monitor LG 24'' Full HD",
+      "description": "Monitor LED de 24 pulgadas con resolución 1080p.",
+      "price": 579,
+      "categorie": "Tecnología",
+      "stock": 7,
+      "image_url": "https://example.com/img/monitor-lg24.jpg",
+      "status": true
+    },
+    {
+      "id": 5,
+      "name": "Teclado Mecánico Redragon K552",
+      "description": "Teclado mecánico RGB con switches rojos.",
+      "price": 189,
+      "categorie": "Accesorios",
+      "stock": 15,
+      "image_url": "https://example.com/img/redragon-k552.jpg",
+      "status": true
+    },
+    {
+      "id": 6,
+      "name": "Mouse Logitech G203 Lightsync",
+      "description": "Mouse gamer RGB con sensor de 8000 DPI.",
+      "price": 109,
+      "categorie": "Accesorios",
+      "stock": 12,
+      "image_url": "https://example.com/img/logitech-g203.jpg",
+      "status": true
+    },
+    {
+      "id": 7,
+      "name": "Silla Gamer Cougar Explore S",
+      "description": "Silla ergonómica para gaming con soporte lumbar.",
+      "price": 699,
+      "categorie": "Muebles",
+      "stock": 3,
+      "image_url": "https://example.com/img/silla-cougar.jpg",
+      "status": true
+    },
+    {
+      "id": 8,
+      "name": "Tablet Xiaomi Pad 6",
+      "description": "Tablet con pantalla de 11 pulgadas y 128 GB de almacenamiento.",
+      "price": 1599,
+      "categorie": "Tecnología",
+      "stock": 4,
+      "image_url": "https://example.com/img/xiaomi-pad6.jpg",
+      "status": true
+    },
+    {
+      "id": 9,
+      "name": "Impresora Epson EcoTank L3250",
+      "description": "Impresora multifuncional con sistema de tinta continua.",
+      "price": 899,
+      "categorie": "Oficina",
+      "stock": 6,
+      "image_url": "https://example.com/img/epson-l3250.jpg",
+      "status": true
+    },
+    {
+      "id": 10,
+      "name": "Disco Duro Externo Seagate 1TB",
+      "description": "Almacenamiento portátil USB 3.0.",
+      "price": 289,
+      "categorie": "Almacenamiento",
+      "stock": 8,
+      "image_url": "https://example.com/img/seagate-1tb.jpg",
+      "status": true
+    }
+  ]
+}
+
+// {
+//   "id": 11,
+//   "name": "Cámara GoPro HERO11",
+//   "description": "Cámara de acción 5.3K para grabación en exteriores.",
+//   "price": 1799,
+//   "categorie": "Fotografía",
+//   "stock": 2,
+//   "image_url": "https://example.com/img/gopro-hero11.jpg",
+//   "status": true
+// },
+// {
+//   "id": 12,
+//   "name": "Parlante Bluetooth Sony XB13",
+//   "description": "Mini parlante resistente al agua con extra bass.",
+//   "price": 199,
+//   "categorie": "Audio",
+//   "stock": 18,
+//   "image_url": "https://example.com/img/sony-xb13.jpg",
+//   "status": true
+// },
+// {
+//   "id": 13,
+//   "name": "Router TP-Link Archer C6",
+//   "description": "Router WiFi AC1200 con 4 antenas de alto rendimiento.",
+//   "price": 159,
+//   "categorie": "Redes",
+//   "stock": 11,
+//   "image_url": "https://example.com/img/tplink-c6.jpg",
+//   "status": true
+// },
+// {
+//   "id": 14,
+//   "name": "MicroSD Samsung EVO 128GB",
+//   "description": "Tarjeta de memoria clase 10 con adaptador SD.",
+//   "price": 75,
+//   "categorie": "Almacenamiento",
+//   "stock": 30,
+//   "image_url": "https://example.com/img/samsung-evo128.jpg",
+//   "status": true
+// },
+// {
+//   "id": 15,
+//   "name": "Smartwatch Amazfit Bip 3",
+//   "description": "Reloj inteligente con medición de ritmo cardíaco y GPS.",
+//   "price": 279,
+//   "categorie": "Tecnología",
+//   "stock": 9,
+//   "image_url": "https://example.com/img/amazfit-bip3.jpg",
+//   "status": true
+// },
+// {
+//   "id": 16,
+//   "name": "Cargador Anker 20W USB-C",
+//   "description": "Cargador rápido compatible con iPhone y Android.",
+//   "price": 89,
+//   "categorie": "Accesorios",
+//   "stock": 25,
+//   "image_url": "https://example.com/img/anker-20w.jpg",
+//   "status": true
+// },
+// {
+//   "id": 17,
+//   "name": "Base Enfriadora para Laptop",
+//   "description": "Soporte con ventiladores y luces LED.",
+//   "price": 69,
+//   "categorie": "Accesorios",
+//   "stock": 13,
+//   "image_url": "https://example.com/img/base-enfriadora.jpg",
+//   "status": true
+// },
+// {
+//   "id": 18,
+//   "name": "TV Samsung 50'' 4K UHD",
+//   "description": "Televisor inteligente con Tizen OS y HDR.",
+//   "price": 1999,
+//   "categorie": "Electrodomésticos",
+//   "stock": 6,
+//   "image_url": "https://example.com/img/samsung-tv50.jpg",
+//   "status": true
+// },
+// {
+//   "id": 19,
+//   "name": "Batería Externa Xiaomi 10000mAh",
+//   "description": "Power bank portátil con carga rápida.",
+//   "price": 95,
+//   "categorie": "Accesorios",
+//   "stock": 14,
+//   "image_url": "https://example.com/img/xiaomi-powerbank.jpg",
+//   "status": true
+// },
+// {
+//   "id": 20,
+//   "name": "Reproductor Chromecast con Google TV",
+//   "description": "Dispositivo de streaming con control remoto.",
+//   "price": 249,
+//   "categorie": "Tecnología",
+//   "stock": 5,
+//   "image_url": "https://example.com/img/chromecast-google-tv.jpg",
+//   "status": true
+// }

@@ -1,0 +1,58 @@
+:root {
+  font-family: system-ui, Avenir, Helvetica, Arial, sans-serif;
+  --bg-primary: #8280fd;
+  --bg-primary-hover: #7370ff;
+}
+
+body {
+  background-color: #eee;
+}
+
+#app {
+  display: flex;
+}
+
+#box_content {
+  flex: 1 0;
+  padding: 10px;
+  gap: 10px;
+  display: flex;
+  flex-direction: column;
+}
+
+.title_table {
+  text-align: center;
+}
+
+table {
+  width: 100%;
+}
+
+.tr_head {
+  background-color: var(--bg-primary);
+}
+
+.tr_head th {
+  text-transform: uppercase;
+  color: white;
+  padding: 6px 10px;
+  text-align: left;
+}
+
+.table_actions {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+#tb tr td {
+  padding: 6px 10px;
+}
+
+.td_dark {
+  background-color: #dedddddd!important;
+}
+
+.td_white {
+  background-color: #f7f7f7!important;
+}
